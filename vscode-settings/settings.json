@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
+    "workbench.editor.empty.hint": "hidden",
+    "git.enableSmartCommit": true,
+    "files.autoSave": "afterDelay",
+    "chat.mcp.gallery.enabled": true,
+    "chat.viewSessions.orientation": "stacked"
+}
