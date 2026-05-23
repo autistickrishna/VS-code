@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.DS_Store": true,
+      "**/node_modules": true,
+      "**/.vscode": false
+    },
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/.git": true
+    },
+    "explorer.compactFolders": false,
+    "explorer.autoReveal": true,
+    "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
+    "files.autoSave": "afterDelay"
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-vscode.cpptools",
+      "ms-vscode.cmake-tools",
+      "ms-python.python",
+      "github.copilot-chat"
+    ]
+  }
+}
